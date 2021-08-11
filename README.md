@@ -1,1 +1,1 @@
-Hello, Sempai!
+Hello, Hexlet!
